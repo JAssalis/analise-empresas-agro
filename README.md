@@ -34,6 +34,14 @@ Os dados utilizados referem-se exclusivamente a pessoas jurídicas. A LGPD (Lei 
 
 ---
 
+## Dados
+
+A base de dados não está disponível neste repositório por restrições de uso institucional.
+Para reproduzir a análise, substitua o arquivo `empresas_dna.xlsx` por uma base
+com as mesmas colunas descritas acima.
+
+---
+
 ## O que foi analisado
 
 **Visão geral da base**
