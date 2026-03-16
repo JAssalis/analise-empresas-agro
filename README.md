@@ -8,7 +8,7 @@ Análise exploratória de uma base com 3.211 empresas cadastradas, com foco no a
 
 | Arquivo | Descrição |
 |---|---|
-| `auspin_refatorado.ipynb` | Notebook principal com toda a análise |
+| `auspin.ipynb` | Notebook principal com toda a análise |
 | `mapa_sp_faturamento.html` | Mapa interativo de faturamento por município — abra no navegador |
 | `README.md` | Este arquivo |
 
