@@ -1,7 +1,6 @@
 # Análise Exploratória de Dados — Empresas Cadastradas no Programa
 
-Análise exploratória de uma base com 3.211 empresas cadastradas, com foco no agronegócio, no ecossistema de inovação e no município de Ribeirão Preto (SP).
-
+Análise exploratória de uma base com 3.211 empresas cadastradas, com foco no agronegócio, no ecossistema de inovação brasileiro com foco no estado de São Paulo.
 ---
 
 ## Arquivos do repositório
