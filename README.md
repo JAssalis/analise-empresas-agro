@@ -80,7 +80,7 @@ pip install pandas matplotlib seaborn geopandas folium wordcloud openpyxl jupyte
 ### Executando o notebook
 
 ```bash
-jupyter notebook auspin_refatorado.ipynb
+jupyter notebook auspin.ipynb
 ```
 
 ### Mapa interativo
